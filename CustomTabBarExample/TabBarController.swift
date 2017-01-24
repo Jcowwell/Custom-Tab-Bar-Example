@@ -34,7 +34,7 @@ class TabBarController: UIViewController, UIGestureRecognizerDelegate {
     //MARK: - View Controller Variables
     
     var viewControllers: [UIViewController]!
-
+    
     var homeViewController: UIViewController!
     var cartViewController: UIViewController!
     var profileViewController: UIViewController!
